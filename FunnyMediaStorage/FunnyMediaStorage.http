@@ -1,0 +1,6 @@
+@FunnyMediaStorage_HostAddress = http://localhost:5151
+
+GET {{FunnyMediaStorage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
